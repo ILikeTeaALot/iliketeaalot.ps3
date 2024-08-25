@@ -1,0 +1,7 @@
+[theme]
+name = "PS3™"
+identifier = "iliketeaalot.ps3"
+version = "1.0.0"
+description = "The icons, sounds, and wave background you know and love from the Sony PS3™"
+authors = ["ILikeTeaALot"]
+features = ["Background", "Icons", "Sound"]

@@ -1,0 +1,67 @@
+[root]
+system = "icon_user.png"
+settings = "icon_setting.png"
+photos = "icon_photo.png"
+music = "icon_music.png"
+video = "icon_video.png"
+tv = "TVICON4-NOCOLOUR.png"
+services = "icon_streaming.png"
+live_tv = "icon_tv.png"
+games = "icon_game.png"
+network = "icon_network.png"
+friends = "icon_friend.png"
+
+[general]
+folder = "tex/item_tex_plain_folder.png"
+playlist = "playlist/tex_playlist.png"
+search = "tex/tex_kensaku.png"
+
+[photos]
+folder = "tex/photo_tex_album_default.png"
+folder_pic = "tex/photo_tex_album_pic.png"
+item_default = "tex/photo_tex_default.png"
+
+[music]
+folder = "tex/music_tex_album_default.png"
+folder_pic = "tex/music_tex_album_pic.png"
+item_default = "tex/music_tex_default.png"
+cd = "tex/item_tex_disc_icon.png"
+sacd = "tex/item_tex_disc_sacd.png"
+
+[video]
+folder = "tex/video_tex_album_default.png"
+dvd = "tex/item_tex_disc_dvd.png"
+bd = "tex/item_tex_disc_bd.png"
+# folder_pic = "tex/video_tex_album_default.png"
+
+[tv]
+folder = "tv_tex_album_default.png"
+
+[games]
+# Credit to https://old.reddit.com/r/MacOS/comments/i6ftvh/a_blue_steam_icon_for_those_of_you_who_prefer/ for Steam icon
+steam = "Steam.png"
+ps1_game = "tex/game_tex_default.png"
+ps1_disc = "tex/item_tex_disc_ps1.png"
+ps2_cd = "tex/item_tex_disc_cd_ps2.png"
+ps2_dvd = "tex/item_tex_disc_dvd.png"
+ps2_game = "tex/game_tex_default_ps2.png"
+ps3_disc = "tex/item_tex_disc_bd.png"
+ps3_game = "tex/game_tex_default_ps3.png"
+
+[settings]
+home = "setting/tex_sett.png"
+music = "setting/tex_music.png"
+theme = "setting/tex_theme.png"
+video = "setting/tex_bddvd.png"
+media_server = "setting/tex_network.png"
+sound = "setting/tex_sound.png"
+display = "setting/tex_display.png"
+plugins = "setting/tex_console.png"
+system = "setting/tex_console.png"
+item = "setting/tex_sett.png"
+
+[system]
+update = "setting/tex_update.png"
+restart = "setting/tex_update.png"
+power_off = "icon_power_off.png"
+unknown = "icon_onlinemanual.png"

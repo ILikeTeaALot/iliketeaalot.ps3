@@ -1,0 +1,17 @@
+All .toml files are Copyright ILikeTeaALot 2024 and included under the Affero General Public License covering the main Tellyfin application
+
+Most of these icons (and all sound files (.AC3, .WAV)) are from the PS3 firmware or from the example custom theme and are thus Copyright © Sony Computer Entertainment 2006-2012
+
+Those that are not are listed here:
+
+=== BEGIN LIST ===
+
+icon/AltoIcon.png             | Copyright ILikeTeaALot 2023
+icon/icon_tv_live.png         | Copyright ILikeTeaALot 2024
+icon/Steam.png                | See Icons.toml for Source
+icon/streaming.png            | Copyright ILikeTeaALot 2024
+icon/tv_tex_album_default.png | Copyright ILikeTeaALot 2024, SCE 2006 - Fair Use/Fair Dealing, Remix
+icon/TVICON4-COLOUR-2.png     | Copyright ILikeTeaALot 2024
+icon/TVICON4-NOCOLOUR.png     | Copyright ILikeTeaALot 2024
+
+===  END LIST  ===

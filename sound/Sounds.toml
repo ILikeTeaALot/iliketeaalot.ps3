@@ -1,0 +1,19 @@
+[sounds]
+cancel = "snd_cancel.wav"
+cursor = "snd_cursor.wav"
+enter = "snd_decide.wav"
+system_ok = "snd_system_ok.wav"
+system_negative = "snd_system_ng.wav"
+
+[sounds.menu]
+cancel = "snd_cancel.wav"
+cursor = "snd_cursor.wav"
+enter = "snd_category_decide.wav"
+
+[sounds.coldboot]
+stereo = "coldboot_stereo.ac3"
+surround = "coldboot_multi.ac3"
+
+[sounds.gameboot]
+stereo = "gameboot_stereo.ac3"
+surround = "gameboot_multi.ac3"
