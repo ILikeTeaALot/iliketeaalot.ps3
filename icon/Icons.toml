@@ -61,6 +61,7 @@ system = "setting/tex_console.png"
 item = "setting/tex_sett.png"
 
 [system]
+user = "tex/tex_Avatar_Default.png"
 update = "setting/tex_update.png"
 restart = "setting/tex_update.png"
 power_off = "icon_power_off.png"
